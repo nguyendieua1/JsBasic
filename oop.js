@@ -10,4 +10,4 @@ for(tenThuocTinh in person){
 }
 
 //for of ngang forEach
-
+console.log(person)
