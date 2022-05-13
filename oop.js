@@ -13,3 +13,7 @@ for(tenThuocTinh in person){
 console.log(person)
 
 var num = [1,2,3,4,5]
+
+for(i = 0; i< length(num); i ++){
+    console.log(num[i]);
+}
