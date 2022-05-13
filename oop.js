@@ -12,7 +12,7 @@ for(tenThuocTinh in person){
 //for of ngang forEach
 console.log(person)
 
-var num = [1,2,3,4,5,6,7]
+var num = [1,2,3,4,5,6,7,8]
 
 for(i = 0; i< num.length; i ++){
     console.log(num[i]);
